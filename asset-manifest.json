@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/google-auth/static/js/main.43779bc4.chunk.js",
-    "main.js.map": "/google-auth/static/js/main.43779bc4.chunk.js.map",
+    "main.js": "/google-auth/static/js/main.5d640d48.chunk.js",
+    "main.js.map": "/google-auth/static/js/main.5d640d48.chunk.js.map",
     "runtime-main.js": "/google-auth/static/js/runtime-main.852f0105.js",
     "runtime-main.js.map": "/google-auth/static/js/runtime-main.852f0105.js.map",
     "static/js/2.87d6a737.chunk.js": "/google-auth/static/js/2.87d6a737.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.852f0105.js",
     "static/js/2.87d6a737.chunk.js",
-    "static/js/main.43779bc4.chunk.js"
+    "static/js/main.5d640d48.chunk.js"
   ]
 }
